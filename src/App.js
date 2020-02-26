@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="pageMiddle">
     <Container>
-      <h2 className="">Welcome to Our Image Recongition APP </h2>
+      <h2 className="">Welcome to Our Image Recongition PWA </h2>
       <Row>
         
         <Col> <Link to="/test" ><Button variant="light" style={{padding:'15px',width:'200px'}}size="lg">Test</Button></Link></Col>
